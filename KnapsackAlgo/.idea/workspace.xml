@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3471eced-0b76-49c1-b5cd-4ae76b5dd23c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YmjbtEdcESLYhCFzbJSxUtCAhJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="KnapsackAlgo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="randomarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.randomarray" />
+      <module name="KnapsackAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.randomarray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.randomarray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3471eced-0b76-49c1-b5cd-4ae76b5dd23c" name="Default Changelist" comment="" />
+      <created>1583554738370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583554738370</updated>
+      <workItem from="1583554744236" duration="1208000" />
+      <workItem from="1583556470401" duration="1754000" />
+      <workItem from="1583558284084" duration="1700000" />
+      <workItem from="1583560220232" duration="829000" />
+      <workItem from="1583608275880" duration="1516000" />
+      <workItem from="1583610101776" duration="1163000" />
+      <workItem from="1583612011744" duration="1729000" />
+      <workItem from="1583614084903" duration="1347000" />
+      <workItem from="1583616003174" duration="1426000" />
+      <workItem from="1583633357920" duration="842000" />
+      <workItem from="1583644614686" duration="1643000" />
+      <workItem from="1583647306900" duration="975000" />
+      <workItem from="1583650074650" duration="384000" />
+      <workItem from="1583656385112" duration="861000" />
+      <workItem from="1583778561103" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="771" key="GridCell.Tab.0.bottom" timestamp="1583648023505">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="771" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583648023505" />
+    <state width="1398" height="771" key="GridCell.Tab.0.center" timestamp="1583648023500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="771" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583648023500" />
+    <state width="1398" height="771" key="GridCell.Tab.0.left" timestamp="1583648023497">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="771" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583648023497" />
+    <state width="1398" height="771" key="GridCell.Tab.0.right" timestamp="1583648023503">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="771" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583648023503" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1583802823802">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583802823802" />
+  </component>
+</project>
