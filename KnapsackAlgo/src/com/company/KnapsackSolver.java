@@ -28,4 +28,19 @@ public abstract class KnapsackSolver {
         }
         return value;
     }
+
+    public double getMaxValue(List<Item> items)
+    {
+        double maxVal = 0;
+        for (Item item : items) {
+            if (item.value > maxVal) {
+                maxVal = item.value;
+            }
+        }
+
+        return maxVal;
+    }
+
+
+
 }

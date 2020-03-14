@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3471eced-0b76-49c1-b5cd-4ae76b5dd23c" name="Default Changelist" comment="" />
+    <list default="true" id="3471eced-0b76-49c1-b5cd-4ae76b5dd23c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/0-1-Knapsack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/input30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/input700.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/DynamicProgramming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/DynamicProgramming.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/Greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/Greedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/KnapsackSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/KnapsackSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/KnapsackSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/KnapsackSolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input1000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input1000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/input500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/randomarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KnapsackAlgo/com/company/randomarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DynamicProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DynamicProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Greedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/KnapsackSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/KnapsackSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/KnapsackSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/KnapsackSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/input10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/input10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/input100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/input100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/input1000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/input1000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/input20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/input20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/input200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/input200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/input50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/input50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/input500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/input500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/randomarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/randomarray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +46,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1YmjbtEdcESLYhCFzbJSxUtCAhJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -96,6 +136,31 @@
       <workItem from="1583650074650" duration="384000" />
       <workItem from="1583656385112" duration="861000" />
       <workItem from="1583778561103" duration="132000" />
+      <workItem from="1583907768257" duration="268000" />
+      <workItem from="1583908080938" duration="936000" />
+      <workItem from="1583950625798" duration="1373000" />
+      <workItem from="1583952446191" duration="512000" />
+      <workItem from="1583956563674" duration="1642000" />
+      <workItem from="1583958398602" duration="1744000" />
+      <workItem from="1583960218063" duration="1770000" />
+      <workItem from="1583962048877" duration="1858000" />
+      <workItem from="1583964177819" duration="1776000" />
+      <workItem from="1583965996959" duration="1564000" />
+      <workItem from="1583967816335" duration="1316000" />
+      <workItem from="1583969144667" duration="428000" />
+      <workItem from="1583969660344" duration="1560000" />
+      <workItem from="1584066935052" duration="1526000" />
+      <workItem from="1584070411873" duration="1842000" />
+      <workItem from="1584075373695" duration="102000" />
+      <workItem from="1584075492250" duration="135000" />
+      <workItem from="1584075772250" duration="1003000" />
+      <workItem from="1584080271438" duration="1446000" />
+      <workItem from="1584084036323" duration="1598000" />
+      <workItem from="1584142838955" duration="699000" />
+      <workItem from="1584153054783" duration="1034000" />
+      <workItem from="1584159778678" duration="496000" />
+      <workItem from="1584162403936" duration="411000" />
+      <workItem from="1584164462092" duration="11000" />
     </task>
     <servers />
   </component>
@@ -103,25 +168,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="771" key="GridCell.Tab.0.bottom" timestamp="1583648023505">
+    <state width="1398" height="771" key="GridCell.Tab.0.bottom" timestamp="1584153757904">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="771" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583648023505" />
-    <state width="1398" height="771" key="GridCell.Tab.0.center" timestamp="1583648023500">
+    <state width="1398" height="771" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584153757904" />
+    <state width="1398" height="771" key="GridCell.Tab.0.center" timestamp="1584153757902">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="771" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583648023500" />
-    <state width="1398" height="771" key="GridCell.Tab.0.left" timestamp="1583648023497">
+    <state width="1398" height="771" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584153757902" />
+    <state width="1398" height="771" key="GridCell.Tab.0.left" timestamp="1584153757901">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="771" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583648023497" />
-    <state width="1398" height="771" key="GridCell.Tab.0.right" timestamp="1583648023503">
+    <state width="1398" height="771" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584153757901" />
+    <state width="1398" height="771" key="GridCell.Tab.0.right" timestamp="1584153757903">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="771" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583648023503" />
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1583802823802">
+    <state width="1398" height="771" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584153757903" />
+    <state x="376" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1584164461917">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583802823802" />
+    <state x="376" y="274" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584164461917" />
+    <state x="376" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1584084042180" />
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584070898106">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1584070898106" />
   </component>
 </project>

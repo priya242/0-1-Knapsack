@@ -34,7 +34,7 @@ public class Greedy extends KnapsackSolver {
         greedy.weight = capUsed;
         greedy.value = value;
         greedy.approach = "Greedy solution (not necessarily optimal)";
-        System.out.println("capacity:" +capacity);
+        //System.out.println("capacity:" +capacity);
 
         long end = System.currentTimeMillis();
         System.out.println("search takes " +  (end - start) + "ms");

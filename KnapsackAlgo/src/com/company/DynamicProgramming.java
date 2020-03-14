@@ -11,7 +11,7 @@ public class DynamicProgramming extends KnapsackSolver {
     }
 
     @Override
-    public KnapsackSolution solve() {
+    public KnapsackSolution solve()  {
 
         long start = System.currentTimeMillis();
         table = new double[capacity + 1][items.size()];
@@ -81,6 +81,22 @@ public class DynamicProgramming extends KnapsackSolver {
         }
 
         return cell;
+    }
+
+    public List<Item> ScaleItemValues(List<Item> items, double scalingFactor)
+    {
+        for (Item item : items) {
+            item.value = Math.floor(item.value / scalingFactor);
+            //double newvalue = item.value;
+            //System.out.println("new values:" +newvalue);
+        }
+        return items;
+
+    }
+    public double GetScalingFactor(List<Item> items, double epsilon)
+    {
+        double x =  (epsilon * this.getMaxValue(items)) / items.size();
+        return x;
     }
 }
 
